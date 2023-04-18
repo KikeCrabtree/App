@@ -1,0 +1,497 @@
+.inicio-sVt {
+    align-items: center;
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  
+    .auto-group-tega-7f8 {
+      align-items: center;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      padding: 0rem 0.2rem 7.6rem 0.2rem;
+      width: 100%;
+  
+      .navigation-c-o2A {
+        background-color: #ffffff;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        height: 15.2805rem;
+        margin-bottom: 7.6rem;
+        padding: 5rem 5.4295rem;
+        width: 100%;
+  
+        .frame-12-61G {
+          align-items: center;
+          display: flex;
+          height: 100%;
+          width: 100%;
+  
+          .bases-y-datos-E7U {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+            height: 100%;
+            margin-right: 34.8233rem;
+  
+            .logo-mt6 {
+              flex-shrink: 0;
+              height: 5.2805rem;
+              margin-right: 0.9rem;
+              object-fit: cover;
+              vertical-align: top;
+              width: 11.7399rem;
+            }
+            .bases-y-datos-6fU {
+              align-items: baseline;
+              color: #000000;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 2.3333rem;
+              font-weight: 700;
+              letter-spacing: -0.035rem;
+              line-height: 1.276062817;
+              margin-bottom: 0.1683rem;
+              white-space: nowrap;
+  
+              .bases-y-datos-6fU-sub-0 {
+                color: #97cf99;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 2.3333rem;
+                font-weight: 700;
+                letter-spacing: -0.035rem;
+                line-height: 1.276062817;
+              }
+              .bases-y-datos-6fU-sub-1 {
+              }
+            }
+          }
+          .button-TH4 {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.059rem #97cf99;
+            border-radius: 0.3542rem;
+            box-sizing: border-box;
+            color: #97cf99;
+            cursor: pointer;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.8889rem;
+            font-weight: 500;
+            height: 100%;
+            justify-content: center;
+            letter-spacing: -0.0283rem;
+            line-height: 1.2175;
+            margin-right: 29.3999rem;
+            white-space: nowrap;
+            width: 19.0556rem;
+          }
+          .button-bna {
+            align-items: center;
+            background-color: #97cf99;
+            border-radius: 0.3542rem;
+            color: #ffffff;
+            cursor: pointer;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.8889rem;
+            font-weight: 500;
+            height: 100%;
+            justify-content: center;
+            letter-spacing: -0.0283rem;
+            line-height: 1.2175;
+            white-space: nowrap;
+            width: 16.7223rem;
+          }
+        }
+      }
+      .video-fGe {
+        background-color: #e5e5e5;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        height: 44.1rem;
+        margin: 0rem 5.4rem 7.6rem 5.4rem;
+        overflow: hidden;
+        padding: 4.1rem 35.84rem 4.1rem 35.16rem;
+        position: relative;
+        width: calc(100% - 10.8rem);
+  
+        .video-kJ6 {
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          width: 100%;
+  
+          .video-explicativo-uAz {
+            color: rgba(0, 0, 0, 0.3199999928);
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 7rem;
+            font-weight: 400;
+            letter-spacing: -0.105rem;
+            line-height: 1.666666594;
+            margin-bottom: 7.4778rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+          .group-c5Q {
+            background-image: url('/api/try-prod-us-east-2-first-cluster/projects/DabHdbmopB2SV5CWzqkMvR/files/vector/b811765107ad65395158735ba3751d8f45c2840b70921ecc8f66c7ede8512d903aae37790b5e705e65064b9239787d0e7c6e95ce72e49cedde5b4a86dc18df3e?hash=ad63d721b7913a2e7dc904db82309e3fc4fa8bc08206f281e3b506f441102aca');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            box-sizing: border-box;
+            flex-shrink: 0;
+            margin: 0rem 20.552rem 0rem 20.552rem;
+            padding: 4.561rem 4.68rem 4.687rem 4.554rem;
+            width: calc(100% - 41.1037rem);
+  
+            .polygon-6WN {
+              border-radius: 0.3801rem;
+              height: 7.4743rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 7.4627rem;
+            }
+          }
+        }
+      }
+      .frame-14-BGv {
+        align-items: center;
+        background-color: #ffffff;
+        color: #000000;
+        display: flex;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 4rem;
+        font-weight: 400;
+        height: 11.3rem;
+        justify-content: center;
+        letter-spacing: -0.06rem;
+        line-height: 1.0624999046;
+        margin: 0rem 5.65rem 7.6rem 5.65rem;
+        overflow: hidden;
+        position: relative;
+        white-space: nowrap;
+        width: calc(100% - 11.3rem);
+      }
+      .body-b-eAW {
+        align-items: flex-start;
+        display: flex;
+        flex-shrink: 0;
+        height: 86.4253rem;
+        margin: 0rem 5.95rem 11.875rem 5.95rem;
+        width: calc(100% - 11.9rem);
+  
+        .frame-13-mW2 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+          margin-right: 5.4rem;
+  
+          .elaboracin-de-cuadrantes-para-perfiles-de-administracin-tKk {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.7222rem;
+            font-weight: 700;
+            letter-spacing: -0.0408rem;
+            line-height: 1.0937682565;
+            margin-bottom: 7.8rem;
+            max-width: 54.9rem;
+          }
+          .consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-consectetur-adipisci-velit-sed-quia-non-numquam-xaW {
+            color: rgba(0, 0, 0, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.985rem;
+            font-weight: 400;
+            letter-spacing: -0.0298rem;
+            line-height: 1.5;
+            margin-bottom: 8.3rem;
+            max-width: 59rem;
+          }
+          .button-xU2 {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.0827rem #97cf99;
+            border-radius: 0.4961rem;
+            box-sizing: border-box;
+            color: #97cf99;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 700;
+            height: 6.4529rem;
+            justify-content: center;
+            letter-spacing: -0.036rem;
+            line-height: 1.5;
+            margin-bottom: 8.3rem;
+            white-space: nowrap;
+            width: 18.6472rem;
+          }
+          .videos-de-ayuda-2Cz {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.7222rem;
+            font-weight: 700;
+            letter-spacing: -0.0408rem;
+            line-height: 1.0859782619;
+            margin-bottom: 8.6195rem;
+            white-space: nowrap;
+          }
+          .consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-consectetur-adipisci-velit-sed-quia-non-numquam-9YW {
+            color: rgba(0, 0, 0, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.9708rem;
+            font-weight: 400;
+            letter-spacing: -0.0296rem;
+            line-height: 1.5000000484;
+            margin-bottom: 7.6rem;
+            max-width: 58.6rem;
+          }
+          .button-bQW {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.0827rem #97cf99;
+            border-radius: 0.4961rem;
+            box-sizing: border-box;
+            color: #97cf99;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 700;
+            height: 6.4529rem;
+            justify-content: center;
+            letter-spacing: -0.036rem;
+            line-height: 1.5;
+            white-space: nowrap;
+            width: 18.6472rem;
+          }
+        }
+        .frame-12-qpe {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+  
+          .aadimos-control-de-inventarios-nzn {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.7222rem;
+            font-weight: 700;
+            letter-spacing: -0.0408rem;
+            line-height: 1.0859782619;
+            margin-bottom: 10.2563rem;
+            white-space: nowrap;
+          }
+          .consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-consectetur-adipisci-velit-sed-quia-non-numquam-uZc {
+            color: rgba(0, 0, 0, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.9708rem;
+            font-weight: 400;
+            letter-spacing: -0.0296rem;
+            line-height: 1.5000000484;
+            margin-bottom: 9.4919rem;
+            max-width: 60.3rem;
+          }
+          .button-9D4 {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.0827rem #97cf99;
+            border-radius: 0.4961rem;
+            box-sizing: border-box;
+            color: #97cf99;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 700;
+            height: 6.4562rem;
+            justify-content: center;
+            letter-spacing: -0.036rem;
+            line-height: 1.5;
+            margin-bottom: 8.1rem;
+            white-space: nowrap;
+            width: 20.2402rem;
+          }
+          .entra-en-la-red-social-de-tu-empresa-wuc {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.7222rem;
+            font-weight: 700;
+            letter-spacing: -0.0408rem;
+            line-height: 1.0934734193;
+            margin-bottom: 8.7316rem;
+            white-space: nowrap;
+          }
+          .consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-consectetur-adipisci-velit-sed-quia-non-numquam-k6N {
+            color: rgba(0, 0, 0, 0.8000000119);
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.9845rem;
+            font-weight: 400;
+            letter-spacing: -0.0298rem;
+            line-height: 1.4999999519;
+            margin-bottom: 8.589rem;
+            max-width: 63.3rem;
+          }
+          .button-Aft {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.0821rem #97cf99;
+            border-radius: 0.4927rem;
+            box-sizing: border-box;
+            color: #97cf99;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 700;
+            height: 6.6423rem;
+            justify-content: center;
+            letter-spacing: -0.036rem;
+            line-height: 1.5;
+            white-space: nowrap;
+            width: 21.1544rem;
+          }
+        }
+      }
+      .pruebalo-pkS {
+        align-items: center;
+        background-color: #e5e5e5;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0 5.65rem;
+        padding: 4.5rem 31.7rem 4.5rem 31.7rem;
+        width: calc(100% - 11.3rem);
+  
+        .estamos-para-resolver-tus-dudas-entra-y-contacta-con-nosotros-kPC {
+          color: rgba(0, 0, 0, 0.8000000119);
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 2.125rem;
+          font-weight: 400;
+          letter-spacing: -0.0319rem;
+          line-height: 1.3888891233;
+          margin-bottom: 3.7333rem;
+          text-align: center;
+          white-space: nowrap;
+        }
+        .button-Smp {
+          align-items: center;
+          background-color: #97cf99;
+          border-radius: 0.463rem;
+          color: #ffffff;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 3.0864rem;
+          font-weight: 500;
+          height: 9.7222rem;
+          justify-content: center;
+          letter-spacing: -0.0463rem;
+          line-height: 1.2175;
+          margin: 0rem 16.941rem 0rem 16.941rem;
+          white-space: nowrap;
+          width: calc(100% - 33.8814rem);
+        }
+      }
+    }
+    .footer--Gkr {
+      align-items: center;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      height: 25.4rem;
+      overflow: hidden;
+      padding: 10.7444rem 5.7759rem;
+      position: relative;
+      width: 100%;
+  
+      .logo-CPc {
+        flex-shrink: 0;
+        height: 3.9112rem;
+        margin-right: 12.4999rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 9.387rem;
+      }
+      .bases-y-datos-8YA {
+        align-items: baseline;
+        color: #000000;
+        display: flex;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 2.3467rem;
+        font-weight: 700;
+        letter-spacing: -0.0352rem;
+        line-height: 1.2760629086;
+        margin: 0.653rem 13.309rem 0rem 0rem;
+        white-space: nowrap;
+  
+        
+        .bases-y-datos-8YA-sub-1 {
+          color: #97cf99;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 2.3467rem;
+          font-weight: 700;
+          letter-spacing: -0.0352rem;
+          line-height: 1.2760629086;
+        }
+      }
+      .app-mobil-PcW {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 2.3467rem;
+        font-weight: 700;
+        letter-spacing: -0.0352rem;
+        line-height: 0.8571428804;
+        margin: 0.089rem 14.8rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .empresa-72i {
+        color: #000000;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 2.3467rem;
+        font-weight: 700;
+        letter-spacing: -0.0352rem;
+        line-height: 0.8571428804;
+        margin: 0.144rem 15.052rem 0rem 0rem;
+        white-space: nowrap;
+      }
+      .bases-y-datos-2023-2Qa {
+        color: rgba(0, 0, 0, 0.8000000119);
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 2.3467rem;
+        font-weight: 400;
+        letter-spacing: -0.0352rem;
+        line-height: 0.8571428804;
+        margin-top: 0.0885rem;
+        text-align: right;
+        white-space: nowrap;
+      }
+    }
+  }
+  
